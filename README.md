@@ -30,6 +30,7 @@ This repository contains a collection of projects developed with React and Nextj
 
 # Table of Contents 📋
 
+- [Code Assets - Nextjs](https://github.com/Adan-Perez/code-assets)
 - [Tasklist - Nextjs](https://github.com/Adan-Perez/Tasklist-Nextjs)
 - [Tech Website - Nextjs](https://github.com/Adan-Perez/Tech-Website)
 - [Dark Mode - React](https://github.com/Adan-Perez/Dark-Mode-React-Tailwindcss)
